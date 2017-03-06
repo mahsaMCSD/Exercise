@@ -18,6 +18,7 @@
         <br />
         <asp:Button ID="BtnSend" runat="server" OnClick="BtnSend_Click" ValidationGroup="VRegister" Text="send" />
         <h1>this is git test</h1>
+        <h2>this is second test</h2>
     </form>
 </body>
 </html>
